@@ -1,0 +1,4 @@
+# Preserve the bundled disk and original binary resources byte for byte.
+*.img binary
+*.png binary
+*.gz binary
